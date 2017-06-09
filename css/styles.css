@@ -1,0 +1,21 @@
+    body{
+      height: 100%;
+      width: 100%;
+      background-color: black;
+      background-image: url(https://ak3.picdn.net/shutterstock/videos/3330173/thumb/1.jpg);
+      background-repeat: no-repeat :; 
+      backface-visibility
+    }
+    .section1{
+      padding-top:30px;
+    }
+    .row1{
+      background-color: black;
+      height: 100px
+
+    }
+    .about{
+      background-color:black;
+      margin-top: 10px;
+
+    }
